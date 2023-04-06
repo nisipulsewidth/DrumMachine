@@ -1,2 +1,2 @@
 # DrumMachine
-Drum machine i've been developing in max msp
+Drum machine patch I've been developing in Max/MSP. Everything is entirely synthesised and lovingly developed by yours truly. Right now it's a working kick drum, 75% of a closed hihat that honestly sounds more like a shaker, and a functional one-to-two bar sequencer, but that's about it right now. Loosely based on the TR-808 architecture and any song where I hear the percussion track and go "damn, okay!!!"
